@@ -1,6 +1,10 @@
 team: Eagles
 
+<<<<<<< HEAD
 manager: 류중일, 박윤찬
+=======
+manager: 김경문, 류중일
+>>>>>>> main
 
 members:
 - 노시환
